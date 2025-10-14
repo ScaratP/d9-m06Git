@@ -57,7 +57,7 @@
 |請假管理|<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/f160f882-2f64-4862-b262-5800031d9af9" />|
 |學餐隨機|<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/2a75c922-2ab4-4e67-8a08-eee0f8071031" />|
 
-### 原始碼請求 (Request Source Code)
+### 原始碼請求
 因應學校活動需求，本專案目前只公開功能說明與完成截圖。
 
 
